@@ -1,2 +1,2 @@
-# devCarlosalbert-proyecto2
+# devCarlosalbert-Practicaphp
 Practicas php
